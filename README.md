@@ -5,7 +5,11 @@
 I'm Rudro from Bangladesh. I am a senior undergraduate pursuing Computer Science at the University of Kansas. 
 
 ## Skills
-* 👨‍💻🕸️🏃‍♂️
+* 👨‍💻
+* 🕸️
+* 🏃‍
+* 🎉
+* 🐍
 
 Skills: C++/ Python / JS / HTML / CSS
 
