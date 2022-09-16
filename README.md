@@ -1,8 +1,11 @@
-### Hi there 👋, my name is Rudro
+### Hi there 👋, I'm Rudro
 #### Aspiring Computer Scienctist/Data Analyst/Data Scienctist
 ![Aspiring Computer Scienctist/Data Analyst/Data Scienctist](https://img.freepik.com/premium-vector/hello-world-is-simple-word-programmer-s-first-programming_48644-298.jpg)
 
 I'm Rudro from Bangladesh. I am a senior undergraduate pursuing Computer Science at the University of Kansas. 
+
+## Skills
+* 👨‍💻🕸️🏃‍♂️
 
 Skills: C++/ Python / JS / HTML / CSS
 
