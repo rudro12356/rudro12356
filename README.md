@@ -5,6 +5,9 @@
 I'm Rudro from Bangladesh. I am a senior undergraduate pursuing Computer Science at the University of Kansas. 
 
 ## Skills
+
+
+Skills: C++/ Python / JS / HTML / CSS / Git / SQL
 * 👨‍💻
 * 🕸️
 * 🏃‍
@@ -12,8 +15,6 @@ I'm Rudro from Bangladesh. I am a senior undergraduate pursuing Computer Science
 * 🐍
 * 💍
 * 🥄
-
-Skills: C++/ Python / JS / HTML / CSS / Git / SQL
 
 - 🔭 I’m currently working on on my senior design project along with other friends. We are planning to build a VR application to raise awareness towards synesthesia. We will be working on Chromesthesia where people see colours and shapes depending on musical chords. 
 - 🌱 I’m currently learning C#, Unity and working to improve in Python 
