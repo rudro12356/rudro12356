@@ -16,7 +16,7 @@ I'm Rudro from Bangladesh. I am a senior undergraduate pursuing Computer Science
 Skills: C++/ Python / JS / HTML / CSS / Git / SQL
 
 - 🔭 I’m currently working on on my senior design project along with other friends. We are planning to build a VR application to raise awareness towards synesthesia. We will be working on Chromesthesia where people see colours and shapes depending on musical chords. 
-- 🌱 I’m currently learning C#, Unity, Python 
+- 🌱 I’m currently learning C#, Unity and working to improve in Python 
 - 👯 I’m looking to collaborate on data analysis and data science project. I am a beginner in the field and want to gain real world experience in these fields.  
 - 🤔 I’m looking for help with tech jobs, Masters and professional development 
 - 📫 How to reach me: rudro12356@gmail.com 
