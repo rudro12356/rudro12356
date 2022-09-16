@@ -15,5 +15,5 @@ Skills: C++/ Python / JS / HTML / CSS
 - ⚡ Fun fact: I can play harmonium 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rudro12356)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rudro12356//)  
 
