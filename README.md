@@ -20,6 +20,7 @@ I'm Rudro from Bangladesh. I am a senior undergraduate pursuing Computer Science
 - 👯 I’m looking to collaborate on data analysis and data science project. I am a beginner in the field and want to gain real world experience in these fields.  
 - 🤔 I’m looking for help with tech jobs, graduate school and professional development 
 - 📫 How to reach me: rudro12356@gmail.com 
+- 👍 Portfolio: https://www.rudro12356.me/
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: I can speak Bangla, English, Hindi and read Arabic
 
