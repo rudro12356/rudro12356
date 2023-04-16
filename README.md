@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rudro
-#### Computer Scienctist/Data Analyst/Data Scientist learning to play with data
+#### Computer Scientist/Data Analyst/Data Scientist learning to play with data and software
 ![Computer Scienctist/Data Analyst/Data Scientist](https://img.freepik.com/premium-vector/hello-world-is-simple-word-programmer-s-first-programming_48644-298.jpg)
 
 I'm Rudro from Bangladesh. I am a senior undergraduate pursuing Computer Science at the University of Kansas. 
