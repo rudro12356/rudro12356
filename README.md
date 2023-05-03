@@ -9,6 +9,8 @@ I'm Rudro from Bangladesh. I am a senior undergraduate pursuing Computer Science
 * 🐍Python
 * 💍Git
 * 🥄SQL
+* 👑Tableau
+* 👓Streamlit
 * 👨‍💻JS
 * 🕸️HTML
 * 🏃C++
