@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Rudro
-#### Computer Scientist| Data Analyst| Data Scientist learning to play with data and software
+#### Computer Scientist| Data Analyst| Data Scientist learning to play with data and build softwares
 ![Computer Scientist*Data Analyst*Data Scientist](https://img.freepik.com/premium-vector/hello-world-is-simple-word-programmer-s-first-programming_48644-298.jpg)
 
-I'm Rudro from Bangladesh. I am an undergraduate in Computer Science from the University of Kansas. 
+I'm Rudro from Bangladesh.
 
 ## Skills
 
@@ -17,7 +17,7 @@ I'm Rudro from Bangladesh. I am an undergraduate in Computer Science from the Un
 * 🎉CSS
 
 ## Additional information 
-- 🏀 I've completed my BS in Computer Science. I'm working towards upskilling myself for software development, data science and analytics.
+- 🏀 I've completed my BS in Computer Science and will start my MS in Computer Science with a focus in ML, Deep Learning and Computer Vision. I'm working towards upskilling myself for software development, data science and analytics.
 - 🌱 Check out my capstone project - https://drive.google.com/file/d/1rvRtkDcGTDyGvHEu4bPZry2QbpQuVvEH/view
 - 👯 I’m looking to collaborate on software development, data analysis and data science projects. 
 - 🤔 I’m looking for help with tech jobs, graduate school and professional development 
