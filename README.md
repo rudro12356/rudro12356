@@ -22,7 +22,7 @@ I'm Rudro from Bangladesh.
 - 👯 I’m looking to collaborate on software development, data analysis and data science projects. 
 - 🤔 I’m looking for help with tech jobs, graduate school and professional development 
 - 📫 How to reach me: rudro12356@gmail.com 
-- 👍 Portfolio: https://www.rudro12356.me/
+- 👍 Portfolio: https://www.rudro12356.com/
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: I can speak Bangla, English, Hindi and read Arabic
 
