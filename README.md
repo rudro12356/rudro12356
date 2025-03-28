@@ -2,8 +2,6 @@
 #### Computer Scientist| Data Analyst| Data Scientist learning to play with data and build softwares
 ![Computer Scientist*Data Analyst*Data Scientist](https://img.freepik.com/premium-vector/hello-world-is-simple-word-programmer-s-first-programming_48644-298.jpg)
 
-I'm Rudro from Bangladesh.
-
 ## Skills
 
 * 🐍Python
