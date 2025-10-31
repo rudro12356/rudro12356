@@ -16,6 +16,7 @@
 
 ## Additional information 
 - 🏀 I've completed my BS in Computer Science and finishing my MS in Computer Science with a focus in ML, Deep Learning and Computer Vision. I'm working towards upskilling myself for software development, data science and analytics.
+- 👌 Currently working as an applied ML researcher in the QBIL Lab at UTD for Dr. Baowei Fei: biomedical imaging with focus on focus on deep learning for clinical applications
 - 📫 How to reach me: rudro12356@gmail.com 
 - 👍 Portfolio: https://www.rudro12356.com/
 - 😄 Pronouns: he/him/his 
