@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rudro
-#### Computer Scientist| Data Analyst| Data Scientist learning to play with data and build softwares
+#### Computer Scientist| Applied ML researcher | Hyperspectral imaging x Deep learning x Digital pathology
 ![Computer Scientist*Data Analyst*Data Scientist](https://img.freepik.com/premium-vector/hello-world-is-simple-word-programmer-s-first-programming_48644-298.jpg)
 
 ## Skills
