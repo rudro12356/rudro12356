@@ -18,7 +18,7 @@
 - 🏀 I've completed my BS in Computer Science and finishing my MS in Computer Science with a focus in ML, Deep Learning and Computer Vision. 
 - 👌 Currently working as an applied ML researcher in the QBIL Lab at UTD for Dr. Baowei Fei: Hyperspectral imaging with focus deep learning for Digital Pathology (H&N cancer and White blood cell cancer)
 - 📫 How to reach me: rudro12356@gmail.com 
-- 👍 Portfolio: https://www.rudro12356.com/
+- 👍 Portfolio: [https://www.rudro12356.com/](https://sites.google.com/view/rudro12356)
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: I can speak Bangla, English, Hindi and read Arabic
 
