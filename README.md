@@ -7,7 +7,6 @@
 * 🐍Python
 * 💍Git
 * 🥄SQL
-* 👑Tableau
 * 👓Streamlit
 * 👨‍💻JS
 * 🕸️HTML
