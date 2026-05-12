@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rudro
-#### Computer Scientist| Applied ML researcher | Hyperspectral imaging x Deep learning x Digital pathology
+#### Applied ML researcher | Hyperspectral imaging x Deep learning x Digital pathology
 ![Computer Scientist*Data Analyst*Data Scientist](https://www.news-medical.net/image-handler/picture/2018/6/AI_in_Digital_Pathology.jpg)
 
 ## Skills
